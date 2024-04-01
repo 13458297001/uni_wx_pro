@@ -1,0 +1,9 @@
+
+.banner,
+.banner image/* 同时为banner和他底下的image赋样式 */
+{
+	width: 750px;
+	height: 750px;
+}
+
+	
